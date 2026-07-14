@@ -2,7 +2,7 @@
 <!--         HEADER            -->
 <!-- ========================= -->
 
-<h1 align="center">Hi 👋, I'm Hashir Abbasi</h1>
+<h1 align="center">Hi 👋, I'm Asheer Abbasi</h1>
 
 <h3 align="center">
 AI & Machine Learning Enthusiast • Backend Developer • Building Intelligent Applications
