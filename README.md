@@ -188,7 +188,7 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+  <td width="50%" valign="top">
 
 **🌐 <a href="https://medilink-frontend-puce.vercel.app/">MediLink</a>**
 
@@ -214,16 +214,9 @@ AI-enabled healthcare management platform featuring secure authentication, role-
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
+  </td>
 
-
-**🌐 [MediLink](https://github.com/Asheer-abbasi01)**
-<br/>
-AI-enabled healthcare management platform with secure authentication, pharmacy billing, medicine inventory, and Gemini-powered medical assistance.
-<br/><br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-
-</td>
-<td width="50%" valign="top">
+  <td width="50%" valign="top">
 
 **🗞️ AI News Aggregator**
 <br/>
@@ -231,10 +224,11 @@ Aggregates news from multiple sources, clusters related stories, and generates A
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 
-</td>
+ </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+  <td width="50%" valign="top">
 
 **🛒 [MERN Flipkart Clone](https://github.com/Asheer-abbasi01/Flipkart-backend)**
 <br/>
@@ -242,8 +236,9 @@ An e-commerce backend inspired by Flipkart — product catalog, cart, and order 
 <br/><br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
-</td>
-<td width="50%" valign="top">
+ </td>
+
+  <td width="50%" valign="top">
 
 **💼 [Portfolio Website](https://asheer-portfolio.vercel.app/)**
 <br/>
@@ -251,7 +246,7 @@ A minimal, dark-themed personal portfolio showcasing projects, skills, and exper
 <br/><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 
-</td>
+  </td>
 </tr>
 </table>
 
