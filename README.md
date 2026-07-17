@@ -141,16 +141,6 @@
 
 <br/>
 
-<!--
-  If trophies still don't render, the shared server may be rate-limited.
-  Try these alternate mirrors (swap the domain above with one of these):
-  - https://github-profile-trophy-fork-two.vercel.app
-  - https://github-profile-trophy-winning.vercel.app
-  - https://trophygithubreadmelang.cybee.dpdns.org
-  Most reliable long-term fix: fork github.com/ryo-ma/github-profile-trophy
-  and deploy it to your own free Vercel account, then point the URL to that.
--->
-
 ### 🏆 Achievements
 
 <div align="center">
@@ -198,6 +188,14 @@ AI-enabled healthcare management platform featuring secure authentication, role-
 
 <br/><br/>
 
+<p align="center">
+  <a href="https://medilink-frontend-puce.vercel.app/">
+    <img src="YOUR_IMAGE_URL_HERE" alt="MediLink Preview" width="100%"/>
+  </a>
+</p>
+
+<br/>
+
 <a href="https://medilink-frontend-puce.vercel.app/">
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/>
 </a>
@@ -214,8 +212,7 @@ AI-enabled healthcare management platform featuring secure authentication, role-
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
-  </td>
-
+</td>
   <td width="50%" valign="top">
 
 **🗞️ AI News Aggregator**
