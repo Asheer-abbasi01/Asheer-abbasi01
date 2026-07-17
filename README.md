@@ -190,8 +190,7 @@ AI-enabled healthcare management platform featuring secure authentication, role-
 
 <p align="center">
   <a href="https://medilink-frontend-puce.vercel.app/">
-    <img src="YOUR_IMAGE_URL_HERE" alt="MediLink Preview" width="100%"/>
-  </a>
+<img src="https://raw.githubusercontent.com/Asheer-abbasi01/MediLink/main/assets/preview.PNG" alt="MediLink Preview" width="100%"/>  </a>
 </p>
 
 <br/>
