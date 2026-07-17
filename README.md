@@ -55,13 +55,13 @@
 
 ### 🧭 About Me
 
-- 🎓 Computer Science student, focused on **backend engineering** and **AI/ML systems**
-- 🤖 **Backend AI Engineering Intern** @ **FlyRank AI** — building AI-driven backend infrastructure
-- 🧱 **Full Stack Developer** (MERN) with a strong backend core — Node.js, Express, MongoDB, REST APIs, Auth
-- 🧠 Currently deep-diving into **LLMs**, **RAG pipelines**, and **Agentic AI** systems
-- 🏗️ Interested in **scalable system design** — clean architecture, performance, and reliability
-- 🚀 Passionate about shipping AI research as **real, usable products**
-- 📍 Based in **Pakistan** — open to internships, collaborations, and backend/AI roles
+-  Computer Science student, focused on **backend engineering** and **AI/ML systems**
+-  **Backend AI Engineering Intern** @ **FlyRank AI** — building AI-driven backend infrastructure
+-  **Full Stack Developer** (MERN) with a strong backend core — Node.js, Express, MongoDB, REST APIs, Auth
+-  Currently deep-diving into **LLMs**, **RAG pipelines**, and **Agentic AI** systems
+-  Interested in **scalable system design** — clean architecture, performance, and reliability
+-  Passionate about shipping AI research as **real, usable products**
+-  Based in **Pakistan** — open to internships, collaborations, and backend/AI roles
 
 <br/>
 
