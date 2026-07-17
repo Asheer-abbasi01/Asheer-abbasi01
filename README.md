@@ -145,7 +145,7 @@
 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Asheer-abbasi01&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=7" alt="GitHub Trophies"/>
+<img src=" https://github-profile-trophy-fork-two.vercel.app/?username=Asheer-abbasi01&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 <!--
   If trophies still don't render, the shared server may be rate-limited.
