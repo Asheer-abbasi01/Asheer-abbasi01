@@ -111,11 +111,11 @@
 ### 🎯 Current Focus
 
 ```text
-🔭  Building AI-powered, full stack applications end to end
-⚙️   Designing scalable, reliable backend systems
-🧩  Learning Agentic AI & multi-step reasoning workflows
-📚  Going deeper into RAG (Retrieval-Augmented Generation)
-🔗  Integrating LLMs into real, production-ready products
+  Building AI-powered, full stack applications end to end
+  Designing scalable, reliable backend systems
+  Learning Agentic AI & multi-step reasoning workflows
+  Going deeper into RAG (Retrieval-Augmented Generation)
+  Integrating LLMs into real, production-ready products
 ```
 
 <br/>
