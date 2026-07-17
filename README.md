@@ -178,32 +178,38 @@
 
 <table width="100%">
 <tr>
-  <td width="50%" valign="top">
+
+<td width="50%" valign="top">
 
 **🌐 <a href="https://medilink-frontend-puce.vercel.app/">MediLink</a>**
 
 <br/>
+
 AI-enabled healthcare management platform featuring secure authentication, role-based access control, pharmacy billing, medicine inventory management, and Gemini-powered medical assistance.
+
 <br/><br/>
 
 <p align="center">
   <a href="https://medilink-frontend-puce.vercel.app/">
-<img src="https://raw.githubusercontent.com/Asheer-abbasi01/MediLink/main/assets/preview.PNG" alt="MediLink Preview" width="100%"/>  </a>
+    <img src="https://raw.githubusercontent.com/Asheer-abbasi01/MediLink/main/assets/preview.PNG" alt="MediLink Preview" width="100%"/>
+  </a>
 </p>
 
 <br/>
 
-<a href="https://medilink-frontend-puce.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-7AA2F7?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://medilink-frontend-puce.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-7AA2F7?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+</p>
 
 </td>
 
@@ -225,38 +231,61 @@ Modern developer portfolio showcasing projects, technical skills, experience, an
 
 <br/>
 
-<a href="https://medilink-frontend-puce.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-7AA2F7?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="https://asheer-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-7AA2F7?style=flat-square&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
 
 </td>
 
 </tr>
+
 <tr>
-  <td width="50%" valign="top">
+
+<td width="50%" valign="top">
 
 **🛒 [MERN Flipkart Clone](https://github.com/Asheer-abbasi01/Flipkart-backend)**
-<br/>
-An e-commerce backend inspired by Flipkart — product catalog, cart, and order APIs built with a scalable MERN architecture.
-<br/><br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
- </td>
+<br/>
+
+An e-commerce backend inspired by Flipkart — product catalog, cart, and order APIs built with a scalable MERN architecture.
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+</p>
+
+</td>
+
 <td width="50%" valign="top">
 
 **🗞️ AI News Aggregator**
-<br/>
-Aggregates news from multiple sources, clusters related stories, and generates AI-powered summaries using LLMs.
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 
- </td>
+<br/>
+
+Aggregates news from multiple sources, clusters related stories, and generates AI-powered summaries using LLMs.
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+</p>
+
+</td>
+
 </tr>
 </table>
 
