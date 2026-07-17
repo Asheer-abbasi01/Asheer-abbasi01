@@ -162,7 +162,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Asheer-abbasi01&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Asheer-abbasi01&theme=radical&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
