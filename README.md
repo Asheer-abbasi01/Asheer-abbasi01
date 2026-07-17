@@ -195,6 +195,11 @@ AI-enabled healthcare management platform featuring secure authentication, role-
 
 <br/>
 
+<p align="center">
+  <a href="https://medilink-frontend-puce.vercel.app/">🔗 Live Demo</a> |
+  <a href="https://github.com/Asheer-abbasi01/MediLink">Repository</a>
+</p>
+
 <a href="https://medilink-frontend-puce.vercel.app/">
   <img src="https://img.shields.io/badge/Live%20Demo-7AA2F7?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
