@@ -208,15 +208,38 @@ AI-enabled healthcare management platform featuring secure authentication, role-
 <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
 </td>
-  <td width="50%" valign="top">
 
-**🗞️ AI News Aggregator**
+<td width="50%" valign="top">
+
+**💼 <a href="https://asheer-portfolio.vercel.app/">Portfolio Website</a>**
+
 <br/>
-Aggregates news from multiple sources, clusters related stories, and generates AI-powered summaries using LLMs.
-<br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 
- </td>
+Modern developer portfolio showcasing projects, technical skills, experience, and contact information, built with React and Tailwind CSS.
+
+<br/><br/>
+
+<p align="center">
+  <a href="https://asheer-portfolio.vercel.app/">
+    <img src="https://raw.githubusercontent.com/Asheer-abbasi01/MediLink/main/assets/portfolio.PNG" alt="Portfolio Preview" width="100%"/>
+  </a>
+</p>
+
+<br/>
+
+<a href="https://medilink-frontend-puce.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Demo-7AA2F7?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+
+</td>
+
+
 </tr>
 
 <tr>
@@ -229,16 +252,16 @@ An e-commerce backend inspired by Flipkart — product catalog, cart, and order 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
  </td>
+<td width="50%" valign="top">
 
-  <td width="50%" valign="top">
-
-**💼 [Portfolio Website](https://asheer-portfolio.vercel.app/)**
+**🗞️ AI News Aggregator**
 <br/>
-A minimal, dark-themed personal portfolio showcasing projects, skills, and experience — deployed on Vercel.
+Aggregates news from multiple sources, clusters related stories, and generates AI-powered summaries using LLMs.
 <br/><br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 
-  </td>
+ </td>
+
 </tr>
 </table>
 
