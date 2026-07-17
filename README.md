@@ -28,7 +28,7 @@
   <a href="https://asheer-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:asheerhadayat@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://x.com/asheerdev">
@@ -162,7 +162,6 @@
 <br/>
 
 ---
----
 
 ### 🐍 Contribution Snake
 
@@ -191,9 +190,35 @@
 <tr>
 <td width="50%" valign="top">
 
+**🌐 <a href="https://medilink-frontend-puce.vercel.app/">MediLink</a>**
+
+<br/>
+
+AI-enabled healthcare management platform featuring secure authentication, role-based access control, pharmacy billing, medicine inventory management, and Gemini-powered medical assistance.
+
+<br/><br/>
+
+<a href="https://medilink-frontend-puce.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀%20Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+
+<a href="https://github.com/Asheer-abbasi01/MediLink">
+  <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+
+
+
 **🌐 [MediLink](https://github.com/Asheer-abbasi01)**
 <br/>
-Full-stack healthcare platform — CRUD workflows, ACID-compliant payment transactions, medicine stock management, and role-based access control.
+AI-enabled healthcare management platform with secure authentication, pharmacy billing, medicine inventory, and Gemini-powered medical assistance.
 <br/><br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
@@ -202,7 +227,7 @@ Full-stack healthcare platform — CRUD workflows, ACID-compliant payment transa
 
 **🗞️ AI News Aggregator**
 <br/>
-An AI-powered app that pulls, summarizes, and ranks trending news using LLMs and prompt engineering for concise, relevant digests.
+Aggregates news from multiple sources, clusters related stories, and generates AI-powered summaries using LLMs.
 <br/><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 
@@ -242,7 +267,7 @@ A minimal, dark-themed personal portfolio showcasing projects, skills, and exper
 
 ### 💬
 
-> *"Code is easy. Understanding the problem is hard. Master the problem, and the code writes itself."*
+> *"Always building. Always learning."*
 
 <br/>
 
