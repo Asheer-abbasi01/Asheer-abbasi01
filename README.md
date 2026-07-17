@@ -183,9 +183,7 @@
 **🌐 <a href="https://medilink-frontend-puce.vercel.app/">MediLink</a>**
 
 <br/>
-
 AI-enabled healthcare management platform featuring secure authentication, role-based access control, pharmacy billing, medicine inventory management, and Gemini-powered medical assistance.
-
 <br/><br/>
 
 <p align="center">
@@ -199,7 +197,7 @@ AI-enabled healthcare management platform featuring secure authentication, role-
   <img src="https://img.shields.io/badge/Live%20Demo-7AA2F7?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -239,9 +237,7 @@ Modern developer portfolio showcasing projects, technical skills, experience, an
 
 </td>
 
-
 </tr>
-
 <tr>
   <td width="50%" valign="top">
 
@@ -261,7 +257,6 @@ Aggregates news from multiple sources, clusters related stories, and generates A
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 
  </td>
-
 </tr>
 </table>
 
