@@ -94,7 +94,7 @@
 
 **AI / ML**
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-2E8B57?style=flat-square&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Prompt%20Engineering-F0883E?style=flat-square&logo=openaigym&logoColor=white"/> <img src="https://img.shields.io/badge/Vector%20DBs-6236FF?style=flat-square&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-2E8B57?style=flat-square&logo=databricks&logoColor=white"/> <img src="https://img.shields.io/badge/Agentic%20AI-F0883E?style=flat-square&logo=openaigym&logoColor=white"/> <img src="https://img.shields.io/badge/Vector%20DBs-6236FF?style=flat-square&logo=pinecone&logoColor=white"/>
 
 **DevOps & Tools**
 
