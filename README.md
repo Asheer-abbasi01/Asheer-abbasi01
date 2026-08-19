@@ -53,7 +53,7 @@
 
 ---
 
-### 🧭 About Me
+###  About Me
 
 -  Computer Science student, focused on **backend engineering** and **AI/ML systems**
 -  **Backend AI Engineering Intern** @ **FlyRank AI** — building AI-driven backend infrastructure
@@ -67,7 +67,7 @@
 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 
 <table width="100%">
 <tr>
@@ -108,7 +108,7 @@
 
 ---
 
-### 🎯 Current Focus
+###  Current Focus
 
 ```text
   Building AI-powered, full stack applications end to end
@@ -122,7 +122,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
 
@@ -141,7 +141,7 @@
 
 <br/>
 
-### 🏆 Achievements
+###  Achievements
 
 <div align="center">
 
@@ -153,7 +153,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 <div align="center">
 
@@ -174,7 +174,7 @@
 
 </div>
 
-### 📌 Featured Projects
+###  Featured Projects
 
 <table width="100%">
 <tr>
@@ -270,7 +270,7 @@ An e-commerce backend inspired by Flipkart — product catalog, cart, and order 
 
 <td width="50%" valign="top">
 
-**🗞️ AI News Aggregator**
+** AI News Aggregator**
 
 <br/>
 
